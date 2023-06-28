@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+motor
+nest_asyncio
+regex
